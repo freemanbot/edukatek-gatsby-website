@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby Starter - Photon",
-    author: "Hunter Chang",
-    description: "A Gatsby.js Starter based on Photon by HTML5 UP"
+    title: "Edukatek - IT e-learning platform",
+    author: "Edukatek.com",
+    description: "IT and cybersecurity dedicated e-learning platform"
   },
   plugins: [
     'gatsby-plugin-react-helmet',
